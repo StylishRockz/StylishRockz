@@ -16,8 +16,7 @@
 
 ## 🔧 Technologies & Skills  
 
-- **Languages**: HTML, CSS, JavaScript, Python  
-- **Web Development**: React.js, Tailwind CSS  
+- **Languages**: HTML, CSS, JavaScript, Python   
 - **Tools & Platforms**: GitHub, Postman, Figma  
 - **Other Interests**: Agile Development, Cybersecurity, APIs  
 
