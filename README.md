@@ -47,7 +47,7 @@
 
 ## 📈 GitHub Stats  
 
-![StylishRockz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StylishRockz&show_icons=true&theme=radical)  
+![StylishRockz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StylishRockz&show_icons=true&theme=radical) 11 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StylishRockz&layout=compact&theme=radical)  
 
 ---
